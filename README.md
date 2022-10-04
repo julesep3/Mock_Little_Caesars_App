@@ -9,6 +9,10 @@ Creative Work Assignment 2
 Personal Assignment Goals
  - Use this assignment as a study to match industry standards (aesthetics) by creating a copy of Little Caesar's mobile app 
 
+## Demo Link
+
+ - https://youtu.be/ekJWojpFD7A
+
 ## Getting Started
 
  - In the terminal, to run, type:
