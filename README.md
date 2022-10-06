@@ -1,7 +1,7 @@
 # Mock Little Caesars Mobile App
 
-UCO - Mobile Apps Programming <br />
-Fall 2021 (Year 3 / Semester 2) <br />
+UCO - Mobile Applications Programming <br />
+Fall 2021 (Year 4 / Semester 1) <br />
 Creative Work Assignment 2
  - The agenda is focused on stateful widgets 
  - Create a new app based on your own study about stateful widgets
